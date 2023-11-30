@@ -1,0 +1,20 @@
+.cadastro {
+    color: white;
+    background-color: #1fb878;
+    border-radius: 50%;
+}
+.excluir {
+    color: white;
+    background-color: #e033a6;
+    border-radius: 50%;
+}
+.recuperar {
+    color: white;
+    background-color: #ff0511;
+    border-radius: 50%;
+}
+.alterar {
+    color: white;
+    background-color: #7e33e0;
+    border-radius: 50%;
+}
